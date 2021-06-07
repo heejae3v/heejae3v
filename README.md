@@ -1,2 +1,1 @@
-# AWS_S3_UploadData
-Upload Files to AWS S3 BUCKET IN ANDROID JAVA
+소프트웨어 공학과최희재 180431
