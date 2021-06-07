@@ -15,7 +15,7 @@
 
 package t4rest;
 
-@com.amazonaws.mobileconnectors.apigateway.annotation.Service(endpoint = "https://wfmczcfdca.execute-api.ap-northeast-2.amazonaws.com/staging")
+@com.amazonaws.mobileconnectors.apigateway.annotation.Service(endpoint = "개인계정정보 비공개")
 public interface TrestClient {
 
 
