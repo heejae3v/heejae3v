@@ -6,3 +6,5 @@ Helpful resources:
 - Amplify CLI documentation: https://docs.amplify.aws/cli
 - More details on this folder & generated files: https://docs.amplify.aws/cli/reference/files
 - Join Amplify's community: https://amplify.aws/community/
+
+개인계정의 s3이 퍼블릭으로 연결되어있어서 제 aws arn이 담긴 해당 폴더는 삭제했습니다.
