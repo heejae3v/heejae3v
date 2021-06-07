@@ -1,0 +1,45 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-t4app-staging-91109-authRole",
+      "UnauthRoleArn": "arn:aws:iam::828403729760:role/amplify-t4app-staging-91109-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::828403729760:role/amplify-t4app-staging-91109-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-t4app-staging-91109-deployment",
+      "UnauthRoleName": "amplify-t4app-staging-91109-unauthRole",
+      "StackName": "amplify-t4app-staging-91109",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:828403729760:stack/amplify-t4app-staging-91109/4ded7cc0-c2b9-11eb-b4b1-0a3813503678",
+      "AmplifyAppId": "d18q0tjt4zno4u",
+      "AuthTriggerTemplateURL": ""
+    },
+    "categories": {
+      "auth": {
+        "t4app": {}
+      },
+      "function": {
+        "t4lambda": {
+          "deploymentBucketName": "amplify-t4app-staging-91109-deployment",
+          "s3Key": "amplify-builds/t4lambda-2f434168337369693171-build.zip"
+        },
+        "t4app3c9408b8": {
+          "deploymentBucketName": "amplify-t4app-staging-91109-deployment",
+          "s3Key": "amplify-builds/t4app3c9408b8-6f58573573354b415144-build.zip"
+        },
+        "t4endpoint": {
+          "deploymentBucketName": "amplify-t4app-staging-91109-deployment",
+          "s3Key": "amplify-builds/t4endpoint-743335652f4366514835-build.zip"
+        },
+        "t4return": {
+          "deploymentBucketName": "amplify-t4app-staging-91109-deployment",
+          "s3Key": "amplify-builds/t4return-32336f6d765452394342-build.zip"
+        }
+      },
+      "storage": {
+        "t4app17223e35": {
+          "bucketName": "t4output",
+          "region": "ap-northeast-2"
+        }
+      }
+    }
+  }
+}
