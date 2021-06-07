@@ -58,9 +58,9 @@ public class MainActivity extends AppCompatActivity {
     private final static int GALLERY_REQUEST = 318;
 
     String textfile = null;
-    String identityPool = "ap-northeast-2:b022f164-69c5-4e7a-a288-a95190e3fe7e";
-    String bucket = "t4app";
-    String bucket1 = "t4output";
+    String identityPool = "비공개"
+    String bucket = "퍼블릭설정이라 비공개합니다";
+    String bucket1 = "퍼블릭설정이라 비공개합니다";
     Regions region = Regions.AP_NORTHEAST_2;
     File downloadFromS3;
     Timer t = new Timer();
