@@ -1,8 +1,8 @@
 {
     "identityPoolName": "testAuthIdentityPool",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "t4app6999a4ca",
-    "userPoolName": "t4app",
+    "resourceNameTruncated": "퍼블릭설정이라 비공개합니다",
+    "userPoolName": "퍼블릭설정이라 비공개합니다",
     "autoVerifiedAttributes": [
         "phone_number"
     ],
@@ -32,7 +32,7 @@
     "userpoolClientLambdaRole": "t4app6999a4ca_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
     "sharedId": "6999a4ca",
-    "resourceName": "t4app",
+    "resourceName": "퍼블릭설정이라 비공개합니다",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [
